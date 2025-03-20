@@ -1,0 +1,64 @@
+Roadmap para MathWizard
+
+    + Financieras - 2.0  
+
+        Intereses Simples
+        Intereses Compuestos
+        ROI (Retorno sobre la Inversión)
+        Costo de Préstamos
+
+
+    + Física - 3.0
+
+        Calculadora de Leyes de Movimiento (Velocidad, Aceleración, etc.)
+        Calculadora de Trabajo y Energía
+        Calculadora de Ley de Ohm (Voltaje, Corriente, Resistencia)
+        Calculadora de Potencia Eléctrica
+        Calculadora de Ley de Gravitación Universal
+        Calculadora de Fuerza y Torque
+        Calculadora de Aceleración
+        Calculadora de Impulso y Momento
+        Calculadora de Presión
+        Calculadora de Termodinámica (Temperatura, Calor, Entalpía, etc.)
+        Calculadoras de Conversión de Unidades
+        Calculadora de Conversiones de Longitud
+        Calculadora de Conversiones de Masa
+        Calculadora de Conversiones de Volumen
+        Calculadora de Conversiones de Temperatura
+        Calculadora de Conversiones de Área
+        Calculadora de Conversiones de Velocidad
+        Calculadora de Conversiones de Tiempo
+        Calculadora de Conversiones de Energía
+        Calculadora de Conversiones de Densidad
+        Calculadora de Conversiones de Presión
+        Calculadora de Conversiones de Potencia
+        Calculadora de Conversiones de Fuerza
+        Calculadora de Conversiones de Fuerza y Torque
+
+
+    + Química - 4.0
+
+        Calculadora de Concentración de Soluciones
+        Calculadora de Molaridad
+        Calculadora de Masa Molar
+        Calculadora de pH de Soluciones
+        Calculadora de Reacciones Químicas (Balanceo de Ecuaciones)
+        Calculadora de Ley de Gases Ideales
+        Calculadora de Energía de Reacción Química
+        Calculadora de Solubilidad
+        Calculadora de Enlaces Químicos
+        Calculadoras de Construcción e Ingeniería
+        Calculadora de Materiales de Construcción (Cemento, Arena, etc.)
+        Calculadora de Ángulos de Inclinación (Pendientes)
+        Calculadora de Resistencia de Materiales
+        Calculadora de Cálculo de Estructuras (Cargas, Tensiones)
+        Calculadora de Área de Paredes (Para Pintura, Revestimiento)
+        Calculadora de Calorímetro (Intercambio de Calor)
+        Calculadora de Cálculo de Consumo de Energía Eléctrica
+
+
+    + Mejorar estilos de UI UX y Branding del programa
+
+    + Crear sitio web para descarga del programa en formato .exe
+
+    + Facilitar la creaciones de calculadoras custom y habilitar una version en ingles del programa - Final release
